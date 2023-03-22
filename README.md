@@ -4,17 +4,16 @@ Hello 👋
 <br>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?&type=soft&color=timeAuto&height=180&section=header&text=JeongWoo%20Kim&fontSize=30&animation=fadeIn&fontAlignY=45" />
+	<img src="https://capsule-render.vercel.app/api?&type=soft&color=000000&height=180&section=header&text=JeongWoo%20Kim&fontSize=30&animation=blinking&fontAlignY=45&fontColor=ffffff" />
 
 </p>
 
 
 <p align="center">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeongWo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeongWo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeongWo&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeongWo&layout=compact&langs_count=8&theme=great-gatsby"/>
 
 </p>
 
@@ -68,5 +67,5 @@ Hello 👋
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongWo&count_bg=%23F05138&title_bg=%23F05138&icon=myspace.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false"/></a>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=100&section=footer" />
 </p>
